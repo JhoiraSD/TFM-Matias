@@ -5,9 +5,8 @@ para desarrollar el Trabajo de Fin de Master "IDENTIFICACIÓN DE ALTERNATIVAS PA
 
 Si desea ponese en contacto, escriba un correo a: matias.rivigl@gmail.com
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-Explicación del contenido de la Base de Datos
+# Explicación del contenido de la Base de Datos
 
-# TABLAS
 -	cnae09_cnae25_nace: Contiene las conversiones entre los códigos.
 - industrias_prtr: Industrias recogidas en el PRTR dentro de la región de Galicia
 -	maestri: Base de datos de MAESTRI.
