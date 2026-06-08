@@ -2,8 +2,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Esta base de datos ha sido realizada por Matías Rivera Iglesias como parte de la metodología empelada
 para desarrollar el Trabajo de Fin de Master "IDENTIFICACIÓN DE ALTERNATIVAS PARA LA SIMBIOSIS INDUSTRIAL EN LA INDUSTRIA GALLEGA"
-
-Si desea ponese en contacto, escriba un correo a: matias.rivigl@gmail.com
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 # Explicación del contenido de la Base de Datos
 
